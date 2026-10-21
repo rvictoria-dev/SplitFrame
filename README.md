@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/885b68b6-7cca-47d5-8ac6-6547f27f2d00
 
 ```
 SplitFrame/
-├── Assets/
+├── assets/
 ├── index.html
 ├── style.css
 └── README.md
